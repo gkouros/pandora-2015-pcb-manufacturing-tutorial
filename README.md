@@ -1,4 +1,7 @@
 ## Welcome to P.A.N.D.O.R.A. PCB Design And Manufacturing Tutorial
+
+![pandora-logo](https://github.com/gKouros/pandora-2015-pcb-manufacturing-wiki/blob/master/images/pandora-logo.png)
+
 ![pandora_pcbs.jpg](https://github.com/gKouros/pandora-2015-hardware-wiki/blob/master/images/pandora_pcbs.jpg)
 
 #####In this tutorial we will look into the manufacturing process of printed circuit boards (PCBs). We will go through the process, step by step, from designing to manufacturing, while examining and comparing the different methods and techniques, to find the optimal solution.
