@@ -1,6 +1,6 @@
-## Welcome to P.A.N.D.O.R.A. PCB Design And Manufacturing Tutorial
-
 ![pandora-logo](https://github.com/gKouros/pandora-2015-pcb-manufacturing-wiki/blob/master/images/pandora-logo.png)
+
+## Welcome to P.A.N.D.O.R.A. PCB Design And Manufacturing Tutorial
 
 ![pandora_pcbs.jpg](https://github.com/gKouros/pandora-2015-hardware-wiki/blob/master/images/pandora_pcbs.jpg)
 
@@ -150,7 +150,7 @@ Etching Steps:
 6. After the etching is complete, remove the board from the solution and throw it in the water container to stop the etching.
 7. Remove the board from the water and let it dry.
 8. Pour some acetone on a paper towel and rub the board, to remove the leftover toner or film, so that only the conductive copper is left.
-9. Drill the PCB vias, pads and holes using either a dremel or a tabletop drill press and different sizes of drill bits, depending on the hole size.
+9. Drill the PCB vias, pads and holes using either a dremel or a tabletop drill press and different sizes of drill bits, depending on the hole size.  
 ![pcb_drilling.jpg](https://github.com/gKouros/pandora-pcb-manufacturing-tutorial/blob/master/images/pcb_drilling.jpg)
 10. Place the components, one or two at a time, before soldering them.
     - Always solder the shortest components first.
