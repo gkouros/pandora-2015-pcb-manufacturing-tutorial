@@ -1,4 +1,4 @@
-![pandora-logo](https://github.com/gKouros/pandora-2015-pcb-manufacturing-wiki/blob/master/images/pandora-logo.png)
+![pandora-logo](images/pandora-logo.png)[(https://github.com/gKouros/pandora-2015-pcb-manufacturing-wiki/blob/master/images/pandora-logo.png)]
 
 ## Welcome to P.A.N.D.O.R.A. PCB Design And Manufacturing Tutorial
 
